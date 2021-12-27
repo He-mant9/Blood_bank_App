@@ -46,7 +46,8 @@ Developers
 Deepak K<br/>
 Msc computer science<br/>
 <br/>
-Developers<br/>
+Developers
+<br/>
 Pratikshay S <br/>
 Msc computer science<br/>
 <br/>
