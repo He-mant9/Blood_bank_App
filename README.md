@@ -38,15 +38,15 @@ You can also learn about why you should donote blood, and why it is beneficial f
 Thank you<br/>
 
 <br/>
-Developers<br/>
+Developer<br/>
 Hemant Khambait<br/>
 Msc computer science<br/>
 <br/>
-Developers<br/>
+Developer<br/>
 Deepak K<br/>
 Msc computer science<br/>
 <br/>
-Developers
+Developer
 <br/>
 Pratikshay S <br/>
 Msc computer science<br/>
