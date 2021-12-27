@@ -39,8 +39,13 @@ Thank you<br/>
 
 <br/>
 Developers<br/>
-Shuvendy Roy Bikash<br/>
-cse, kuet<br/>
+Hemant Khambait<br/>
+Msc computer science<br/>
 <br/>
-Hasib Iqbal Pranto<br/>
-cse, kuet<br/>
+Deepak K<br/>
+Msc computer science<br/>
+<br/>
+Developers<br/>
+Pratikshay S <br/>
+Msc computer science<br/>
+<br/>
